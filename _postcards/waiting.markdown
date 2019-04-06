@@ -9,7 +9,6 @@ author: Pixy
 layout: postcard
 ---
 
-
-Trading![Waiting.jpg](/uploads/Waiting.jpg)
+![Waiting.jpg](/uploads/Waiting.jpg)
 
 Trading Station, Esos Minor, Showgaw-Uzent IV system
