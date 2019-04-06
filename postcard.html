@@ -1,0 +1,15 @@
+---
+title: Postcard
+layout: default
+---
+
+<h1>Postcards</h1>
+
+<ul>
+{% for postcard in site.postcards %}
+<li>
+<h2><a href="{{ site.baseurl }}{{ postcard.url }}">{{ postcard.title }}</a></h2>
+
+</li>
+{% endfor %}
+</ul>
