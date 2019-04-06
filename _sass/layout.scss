@@ -6,11 +6,11 @@ body {
 	font-size: 16px;
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
-	background: #31b3f9; /* Old browsers */
-	background: -moz-linear-gradient(-45deg, #31b3f9 0%, #70e2ff 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(-45deg, #31b3f9 0%,#70e2ff 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(135deg, #31b3f9 0%,#70e2ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#31b3f9', endColorstr='#70e2ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background: #5F9EA0; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #5F9EA0 0%, #708090 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #5F9EA0 0%,#708090 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #5F9EA0 0%,#708090 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5F9EA0', endColorstr='#708090',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 h1,
 h2,
@@ -159,7 +159,7 @@ footer {
 	}
 
 	.octocat {
-		width: 15vw;
+		width: 10vw;
 	}
 	.siteleaf {
 		width: 10vw;
