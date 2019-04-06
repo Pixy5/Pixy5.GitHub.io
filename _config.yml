@@ -2,6 +2,9 @@
 title: Stone The Crows
 timezone: UTC
 collections:
+  postcards:
+    title: Postcards
+    output: true
   posts:
     title: Posts
     output: true
