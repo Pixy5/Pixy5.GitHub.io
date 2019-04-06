@@ -6,6 +6,7 @@ categories:
 tags:
 - NMS
 author: Pixy
+layout: postcard
 ---
 
 ![My Post (4).jpg](/uploads/My%20Post%20(4).jpg)
