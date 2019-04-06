@@ -126,6 +126,8 @@ footer {
 
 /* Hero - feel free to delete this, it is just to be pretty. :) */
 .main-title {
+  font-family: "Special Elite", cursive;
+  color: #2F4F4F;
   text-align: center;
   font-size: 5rem; }
 
@@ -135,6 +137,7 @@ footer {
   justify-content: space-between;
   max-width: 75vw;
   margin: auto;
+  font-family: "Special Elite", cursive;
   font-size: 6rem; }
   .hero span {
     padding: 2rem; }

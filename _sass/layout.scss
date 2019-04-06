@@ -137,6 +137,8 @@ footer {
 /* Hero - feel free to delete this, it is just to be pretty. :) */
 
 .main-title {
+    font-family: $hero-font-style;
+    color: $hero-font-color;
 	text-align:center;
 	font-size:5rem;
 }
@@ -148,6 +150,7 @@ footer {
     justify-content: space-between;
     max-width: 75vw;
     margin: auto;
+    font-family: $hero-font-style;
 	font-size: 6rem;
 	
 	span {
