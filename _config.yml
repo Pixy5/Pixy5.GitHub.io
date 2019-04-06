@@ -5,7 +5,6 @@ collections:
   postcards:
     title: Postcards
     output: true
-    author: Pixy
   posts:
     title: Posts
     output: true
