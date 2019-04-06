@@ -21,7 +21,8 @@ h3 {
 	line-height: 1.5;
 }
 h1 {
-	color: $main;
+    font-family: $hero-font-style;
+	color: $hero-font-color;
 	font-size: 2.5em;
 	a,
 	a:visited {
@@ -109,7 +110,7 @@ aside {
 					text-decoration: none;
 					display: block;
 					padding: 15px;
-					font-family: 'Muli', sans-serif;
+					font-family: $hero-font-style;
 					line-height: 20px;
 					margin-bottom: -1px;
 					box-shadow: 0;
@@ -130,6 +131,7 @@ aside {
 	}
 }
 footer {
+    font-family: $hero-font-style;
 	text-align: center;
 	padding: 40px;
 }
