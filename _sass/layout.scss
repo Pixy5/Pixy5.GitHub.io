@@ -18,7 +18,8 @@ h3 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
-	line-height: 1.5;
+	font-size: 3rem;
+    line-height: 1.5;
 }
 h1 {
     font-family: $hero-font-style;
@@ -44,7 +45,7 @@ a:hover {
 	text-decoration: underline;
 }
 header {
-	padding: 2rem;
+	padding: 1rem;
 	text-align: center;
 	display: flex;
 	justify-content: space-between;
@@ -55,8 +56,9 @@ header {
 	}
 
 	nav {
-
-		
+        display: flex;
+		justify-content: space-between;
+	   align-items: center;
 		a , a:visited {
 			background-color:  $link-color;	
 			color:$main;
@@ -142,7 +144,7 @@ footer {
     font-family: $hero-font-style;
     color: $hero-font-color;
 	text-align:center;
-	font-size:4rem;
+	font-size:5vw;
 }
 
 .hero {
@@ -150,7 +152,7 @@ footer {
 	display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 75vw;
+    max-width: 60vw;
     margin: auto;
     font-family: $hero-font-style;
 	font-size: 6rem;
@@ -164,7 +166,7 @@ footer {
 	}
 
 	.octocat {
-		width: 10vw;
+		width: 20vw;
 	}
 	.siteleaf {
 		width: 10vw;
@@ -173,8 +175,6 @@ footer {
    
 
 }
-
-
 
 .postcard {
     

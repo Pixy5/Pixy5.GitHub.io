@@ -33,6 +33,7 @@ h3 {
   font-weight: 600;
   color: #425469;
   font-family: "Muli", sans-serif;
+  font-size: 3rem;
   line-height: 1.5; }
 
 h1 {
@@ -58,24 +59,28 @@ a:hover {
   text-decoration: underline; }
 
 header {
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
   display: flex;
   justify-content: space-between;
   align-items: center; }
   header img {
     max-width: 200px; }
-  header nav a, header nav a:visited {
-    background-color: #bada55;
-    color: #ffffff;
-    text-decoration: none;
-    padding: 10px 20px;
-    margin-left: 1rem; }
-  header nav a:hover {
-    background-color: #ffffff;
-    color: #bada55;
-    text-decoration: none;
-    margin-left: 1rem; }
+  header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    header nav a, header nav a:visited {
+      background-color: #bada55;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 10px 20px;
+      margin-left: 1rem; }
+    header nav a:hover {
+      background-color: #ffffff;
+      color: #bada55;
+      text-decoration: none;
+      margin-left: 1rem; }
 
 main {
   padding: 0 15px;
@@ -131,13 +136,13 @@ footer {
   font-family: "Special Elite", cursive;
   color: #2F4F4F;
   text-align: center;
-  font-size: 4rem; }
+  font-size: 5vw; }
 
 .hero {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 75vw;
+  max-width: 60vw;
   margin: auto;
   font-family: "Special Elite", cursive;
   font-size: 6rem; }
@@ -146,7 +151,7 @@ footer {
   .hero .jekyll {
     width: 10vw; }
   .hero .octocat {
-    width: 10vw; }
+    width: 20vw; }
   .hero .siteleaf {
     width: 10vw; }
 
