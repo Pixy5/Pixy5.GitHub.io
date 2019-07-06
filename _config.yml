@@ -14,9 +14,7 @@ collections:
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+  results) and in your feed.xml site description.'
 baseurl: 
 url: 
 twitter_username: "@CorCorvus"
@@ -24,3 +22,5 @@ github_username: Pixy5
 sass:
   sass_dir: _sass
 markdown: kramdown
+google_analytics: UA-143380934-1
+#google_tag_manager: GTM-KZBHCZ4
