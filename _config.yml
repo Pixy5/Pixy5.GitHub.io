@@ -23,4 +23,4 @@ sass:
   sass_dir: _sass
 markdown: kramdown
 google_analytics: UA-143380934-1
-#google_tag_manager: GTM-KZBHCZ4
+google_tagmanager: GTM-KZBHCZ4
